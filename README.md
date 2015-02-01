@@ -9,7 +9,7 @@ In order to propose a project for this year's RGSoC please read our [Project Men
 
 We will review your submitted project and come back with questions/concerns if we have any.
 
-The accepted projects will be found here: [projects](https://github.com/rails-girls-summer-of-code/projects/issues?q=is%3Aopen+is%3Aissue+label%3Aaccepted).
+The accepted projects will be found [here](https://github.com/rails-girls-summer-of-code/projects/issues?q=is%3Aopen+is%3Aissue+label%3Aaccepted).
 
 
 ### Applying to a project 
