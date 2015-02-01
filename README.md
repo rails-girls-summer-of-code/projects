@@ -21,4 +21,4 @@ Please contact the mentor who opened the issue. If an issue is locked, that mean
 * 2013 [teams application](http://2013.teams.railsgirlssummerofcode.org/teams)
 * 2013 [project proposal wiki page](https://github.com/rails-girls-summer-of-code/summer-of-code/wiki/Project-ideas). 
 * 2014 [teams application](http://2014.teams.railsgirlssummerofcode.org/teams)
-* 2013 [project proposals](https://github.com/rails-girls-summer-of-code/projects-2015/). 
+* 2014 [project proposals](https://github.com/rails-girls-summer-of-code/projects/). 
