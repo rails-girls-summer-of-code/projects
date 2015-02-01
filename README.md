@@ -5,7 +5,23 @@
 Do you run an Open Source project? We would love to see you involved in Rails
 Girls Summer of Code! 
 
-In order to propose a project for this year's RGSoC please read our [Project Mentor's Guide](LINK). Afterwards you can open a new issue here to submit your proposal.
+In order to propose a project for this year's RGSoC please read our [Project Mentor's Guide](LINK). Afterwards you can open a new issue here to submit your proposal. Please copy answer questions into your issue:
+--
+
+**Name and Contact of the Project Mentor:**
+
+**Name of the Project:**
+
+**URL:**
+
+**About the Project:**
+
+**Suitable for beginners?**
+
+**What are issues/features students may work on?**
+
+--
+
 
 We will review your submitted project and come back with questions/concerns if we have any.
 
