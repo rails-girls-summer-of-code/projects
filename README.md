@@ -11,7 +11,11 @@ Have a look through these [projects](https://github.com/rails-girls-summer-of-co
 
 
 Please contact the mentor who opened the issue. If an issue is locked, that means that the mentor is not taking on more applicants for his or her project. You can also find other Open Source projects, that are not yet proposed here and suggest to the mentor to submit his or her project here. 
+
+
 -----
+
+
 ## Project Owners/Contributers
 
 ### Propose your Open Source project
