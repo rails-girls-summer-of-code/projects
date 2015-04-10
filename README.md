@@ -16,7 +16,7 @@ Please contact the mentor who opened the issue. If an issue has the label 'maxim
 -----
 
 
-## Project Owners/Contributers
+## Project Owners/Contributors
 
 ### We've closed submissions for this year!
 
